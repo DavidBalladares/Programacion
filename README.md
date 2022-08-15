@@ -1,9 +1,9 @@
 # Programacion
+
 #include <iostream>
 #include <conio.h>
 #include <string.h>
 using namespace std;
-
 int main(){
     system ("cls \n");
     char h[20], g[20], j[20];
